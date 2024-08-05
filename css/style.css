@@ -142,6 +142,7 @@ nav{
 .projects-container{
    position: relative;
    display: flex;
+   flex-shrink: 0;
    justify-content: space-between;
 }
 .project-link{
